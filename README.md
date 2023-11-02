@@ -7,4 +7,6 @@
 5. Yellow
 6. Orange
 7. Red
-   
+8. White
+9. Black
+10. Brown  
